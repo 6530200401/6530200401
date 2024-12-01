@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img hight="500" width="800" alt="GIF" align="center" src="/img/cinnamoroll.gif">
+  <img hight="400" width="700" alt="GIF" align="center" src="/img/cinnamoroll-with-pillow.gif">
 </div>
 </br>
 </br>
