@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  
+  <img hight="300" width="700" alt="GIF" align="center" src="/img/cinnamoroll.gif">
 </div>
 <br>
 <br>
@@ -11,14 +11,16 @@
 
 ### I am 21 years old. I am studying for a Bachelor's degree in Computer Science.
 
+<img hight="400" width="500" alt="GIF" align="right" src="/img/jumping-zerotow.gif">
+
 ### - Learning :
-- Database
-- C, C++, Python, Java Programming
-- Data Structures & Algorithms
+- 📚 Database
+- 📚 C, C++, Python, Java Programming
+- 📚 Data Structures & Algorithms
 
 ### - Hobbies :
-- Play Game
-- Sleep
+- 🌟 Play Game
+- 🌟 Sleep
 
 <br>
 <br>
